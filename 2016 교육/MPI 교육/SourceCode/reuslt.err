@@ -1,0 +1,7 @@
+Currently Loaded Modulefiles:
+  1) intel/mkl-10.2.5          3) mpi/intel/openmpi-1.4.3
+  2) intel/intel-11.1
+
+real	0m1.133s
+user	0m0.066s
+sys	0m0.067s
