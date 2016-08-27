@@ -1,0 +1,8 @@
+Warning: Permanently added '[c26]:22554,[192.168.0.126]:22554' (RSA) to the list of known hosts.
+[proxy:0:1@c26] HYD_pmcd_pmip_control_cmd_cb (./pm/pmiserv/pmip_cb.c:913): assert (!closed) failed
+[proxy:0:1@c26] HYDT_dmxu_poll_wait_for_event (./tools/demux/demux_poll.c:77): callback returned error status
+[proxy:0:1@c26] main (./pm/pmiserv/pmip.c:206): demux engine error waiting for event
+[mpiexec@c23] HYDT_bscu_wait_for_completion (./tools/bootstrap/utils/bscu_wait.c:76): one of the processes terminated badly; aborting
+[mpiexec@c23] HYDT_bsci_wait_for_completion (./tools/bootstrap/src/bsci_wait.c:23): launcher returned error waiting for completion
+[mpiexec@c23] HYD_pmci_wait_for_completion (./pm/pmiserv/pmiserv_pmci.c:217): launcher returned error waiting for completion
+[mpiexec@c23] main (./ui/mpich/mpiexec.c:330): process manager error waiting for completion
