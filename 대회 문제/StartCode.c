@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
 	start = nRank * jobs;
 
 	if (nRank == lastR) {
-		end = start + jobs + remain;
+		end = JOB;//JOB ¹Ù²Ù»ï
 	}
 	else {
 		end = start + jobs;

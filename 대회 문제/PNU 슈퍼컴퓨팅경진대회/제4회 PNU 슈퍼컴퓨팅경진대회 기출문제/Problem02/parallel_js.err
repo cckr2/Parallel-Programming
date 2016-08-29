@@ -1,0 +1,16 @@
+Currently Loaded Modulefiles:
+  1) intel/mkl-10.2.5          3) mpi/intel/openmpi-1.4.3
+  2) intel/intel-11.1
+Currently Loaded Modulefiles:
+Currently Loaded Modulefiles:
+  1) intel/mkl-10.2.5          3) mpi/intel/openmpi-1.4.3
+  2) intel/intel-11.1
+  1) intel/mkl-10.2.5          3) mpi/intel/openmpi-1.4.3
+  2) intel/intel-11.1
+Currently Loaded Modulefiles:
+  1) intel/mkl-10.2.5          3) mpi/intel/openmpi-1.4.3
+  2) intel/intel-11.1
+
+real	0m11.829s
+user	0m37.640s
+sys	0m41.523s
